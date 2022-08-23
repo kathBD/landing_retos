@@ -15,7 +15,7 @@ Comenzando 🚀
 Página de retos  realizado en HTML - CSS -JS
 
 ![retos](https://i.ibb.co/3SG08WT/Captura-de-pantalla-2022-01-04-154839.png)
-<ul>
+
 
 Mira Deployment de la página proyecto.</ul>
 https://condescending-blackwell-9784a3.netlify.app/
